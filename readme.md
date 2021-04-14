@@ -1,3 +1,6 @@
+# Info
+GA assignment to practice EJS, EJS layouts, Express, and Controllers.
+
 # Zodiac Controllers
 
 ![image showing signs' traits and categories](./zodiac.jpeg)
